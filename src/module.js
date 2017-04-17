@@ -34,6 +34,7 @@ export { default as ProgressBar } from './components/ProgressBar';
 export { default as ScrollView } from './components/ScrollView';
 export { default as StatusBar } from './components/StatusBar';
 export { default as Switch } from './components/Switch';
+export { default as TabBarIOS } from './components/TabBarIOS';
 export { default as Text } from './components/Text';
 export { default as TextInput } from './components/TextInput';
 export { default as Touchable } from './components/Touchable/Touchable';
