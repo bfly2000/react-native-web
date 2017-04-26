@@ -31,6 +31,7 @@ export { default as Image } from './components/Image';
 export { default as ListView } from './components/ListView';
 export { default as Picker } from './components/Picker';
 export { default as ProgressBar } from './components/ProgressBar';
+export { default as RefreshControl } from './components/RefreshControl';
 export { default as ScrollView } from './components/ScrollView';
 export { default as StatusBar } from './components/StatusBar';
 export { default as Switch } from './components/Switch';
